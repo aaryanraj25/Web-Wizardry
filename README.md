@@ -12,10 +12,6 @@ Books - A curated list of books that are must-reads for career advancement.
 Tools - Essential tools and software that can help you get ahead.
 Mentorship - Connect with industry leaders and get personal guidance.
 
-# 📖 How to Use
-Clone the repository:
-git clone https://github.com/your-username/Unlock-Your-Potential.git
-
 Navigate to the relevant section and start exploring the resources.
 
 # Deployed Link 
